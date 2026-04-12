@@ -1,0 +1,13 @@
+Paul Graham Jr. site cover swap instructions
+
+The five main Dream Chaser Nation books load from image files in /assets.
+To swap in your clearer real covers, replace these files while keeping the same names:
+
+- sell-this-to-your-mom-cover.svg
+- sales-logic-cover.svg
+- ai-mastermind-cover.svg
+- emotions-and-feelings-cover.svg
+- energy-cover.svg
+
+You can replace them with PNG, JPG, WEBP, or SVG.
+If the extension changes, update that one line in index.html.

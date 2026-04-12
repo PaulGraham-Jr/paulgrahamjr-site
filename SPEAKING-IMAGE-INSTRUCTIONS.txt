@@ -1,0 +1,2 @@
+To replace the speaking placeholder, add your speaking image to /assets and then update the speaking image block in index.html to use that file.
+The layout is already sized so the image can be swapped in later without changing the section structure.

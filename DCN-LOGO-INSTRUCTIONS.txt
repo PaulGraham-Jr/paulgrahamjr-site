@@ -1,0 +1,2 @@
+To replace the Dream Chaser Nation logo at the bottom, swap /assets/dream-chaser-nation-logo.png with your updated logo file.
+If the file extension changes, update the image source in index.html.
