@@ -24,9 +24,9 @@
 <rect width="900" height="1400" fill="url(#glow2)"/>
 <rect width="900" height="1400" fill="url(#glow3)"/>
 <rect x="42" y="42" width="816" height="1316" rx="34" fill="none" stroke="rgba(255,255,255,.18)"/>
-<text x="450" y="210" text-anchor="middle" fill="#d9c0ff" font-size="34" font-family="Arial, Helvetica, sans-serif" letter-spacing="8">REPLACE THIS FILE</text>
+<text x="450" y="210" text-anchor="middle" fill="#d9c0ff" font-size="34" font-family="Arial, Helvetica, sans-serif" letter-spacing="8">COMING SOON</text>
 <text x="450" y="560" text-anchor="middle" fill="#fff6ff" font-size="84" font-weight="700" font-family="Georgia, Times, serif">AI Mastermind</text>
 <text x="450" y="650" text-anchor="middle" fill="#efe6ff" font-size="40" font-family="Arial, Helvetica, sans-serif">cover placeholder</text>
-<text x="450" y="1220" text-anchor="middle" fill="#d9c0ff" font-size="34" font-family="Arial, Helvetica, sans-serif">Drop your clearer cover into /assets</text>
-<text x="450" y="1270" text-anchor="middle" fill="#d9c0ff" font-size="34" font-family="Arial, Helvetica, sans-serif">using this same filename</text>
+<text x="450" y="1220" text-anchor="middle" fill="#d9c0ff" font-size="34" font-family="Arial, Helvetica, sans-serif">Stay Tuned for the Cover Release</text>
+<text x="450" y="1270" text-anchor="middle" fill="#d9c0ff" font-size="34" font-family="Arial, Helvetica, sans-serif">              </text>
 </svg>
